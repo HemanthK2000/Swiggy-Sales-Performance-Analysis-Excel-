@@ -34,20 +34,15 @@ The dataset contains Swiggy order-level data with the following attributes:
 
 - Order ID  
 - Order Date  
-- Restaurant Name  
-- City  
+- Restaurant Name
+- City 
 - Food Category  
 - Order Value  
 - Quantity  
-- Payment Mode  
-- Customer Rating  
-
-*(Note: Dataset used is for educational and analytical purposes.)*
-
----
-
+- Customer Rating
+- 
 ## 🔍 Key Analysis Performed
-- **Sales Trend Analysis** (Daily / Monthly)
+- **Sales Trend Analysis** (Weekly / Monthly)
 - **Revenue Contribution by City**
 - **Top Restaurants by Sales**
 - **Popular Food Categories**
@@ -59,11 +54,14 @@ The dataset contains Swiggy order-level data with the following attributes:
 
 ## 📈 Dashboards & Visualizations
 The Excel dashboard includes:
-- KPI Cards (Total Sales, Total Orders, AOV)
-- Sales Trend Line Charts
-- Category-wise Revenue Bar Charts
-- City-wise Sales Distribution
-- Top 10 Restaurants Analysis
+- KPI Cards (Total Sales, Total Orders, Average Order Rate, Rating Count, Average Rating)
+- Montly Sales Trend
+- Sales by Food Type
+- Sales by State
+- Daily Sales Trend
+- Total Sales, Rating & Total Orders by State
+- Top 5 Cities by Sales
+- Weekly Sales Trend
 
 ---
 
@@ -76,4 +74,18 @@ The Excel dashboard includes:
 
 ---
 
-## 📁 Repository Structure
+## 📌 Business Recommendations
+- Focus marketing efforts on high-revenue cities
+- Partner with top-performing restaurants for promotions
+- Optimize discounts during off-peak hours
+- Improve customer experience for low-rated restaurants
+- Expand popular food categories
+
+---
+
+## 👤 Author
+**Hemanth K**  
+Aspiring Data Analyst  
+
+📫 LinkedIn: *(Add your LinkedIn URL)*  
+📂 Portfolio: *(Add your GitHub or portfolio link)* 
