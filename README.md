@@ -6,6 +6,7 @@ Raw Data :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Ex
 
 Dashboard Image :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Sales%20Performance%20Dashboard.jpg
 
+<img width="1515" height="857" alt="Image" src="https://github.com/user-attachments/assets/7def32f4-53f3-4aeb-b6c7-cf90dea0bbb6" />
 Dashboard Video :- https://github.com/HemanthK2000/Swiggy-Sales-Performance-Analysis-Excel-/blob/main/Swiggy%20Sales%20Performance%20Analysis%20Dashboard.mp4
 
 ## 🎯 Objectives
